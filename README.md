@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Wania Khan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/107506646/221663712-814965ad-d3d3-47e9-af63-244b8eef74b3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waniakhan&label=Profile%20views&color=0e75b6&style=flat" alt="waniakhan" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waniakhan" alt="waniakhan" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend web project**
 
@@ -13,6 +11,8 @@
 - 💬 Ask me about **FrontEnd Web Development**
 
 - 📫 How to reach me **hafizawania654@gmail.com**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=waniakhan&label=Profile%20views&color=0e75b6&style=flat" alt="waniakhan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waniakhan" alt="waniakhan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
