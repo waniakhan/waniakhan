@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **FrontEnd Web Development**
 
-- 📫 How to reach me **hafizawania654@gmail.com**
+- 📫 All of my social media accounts available at**https://bio.site/Wania_khan**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waniakhan" alt="waniakhan" /></a> </p>
 
